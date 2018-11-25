@@ -52,7 +52,7 @@
 都说互联网公司加班是家常便饭，阿里的加班更不用多说。我当时所在的总部西溪园区经常到晚上10，12，园区灯火通明。不过大多数部门995是肯定的，996只是少数业务繁忙的部门。一些新部门会格外夸张，项目紧的时候007都有。像钉钉、盒马、阿里云都是非常忙的。
 
 ### 技术
-阿里的技术绝对没话说，尤其是java相关的技术。我当时毕业的时候选择java就是因为看到了阿里在java中间件领域的贡献，并且很多都开源了，像dubbo，metaQ（后续改名为RocketMQ），diamond，tddl（头都大了），druid，fastjosn，tair等等。现在也有很多贡献给apache社区了，比如dubbo，rocketmq。国内除了华为，很少有项目能进入到apache孵化器的。感兴趣的可以查看阿里中间件的官网http://jm.taobao.org/。
+阿里的技术绝对没话说，尤其是java相关的技术。我当时毕业的时候选择java就是因为看到了阿里在java中间件领域的贡献，并且很多都开源了，像dubbo，metaQ（后续改名为RocketMQ），diamond，tddl（头都大了），druid，fastjosn，tair等等。现在也有很多贡献给apache社区了，比如dubbo，rocketmq。国内除了华为，很少有项目能进入到apache孵化器的。感兴趣的可以查看阿里中间件的官网http://jm.taobao.org/ 。
 
 #### 中间件
 这是阿里非常牛逼和引以为豪的技术产品。很多公司的中间件都有参考阿里的开发，像大众点评，携程，等等。不过阿里的中间件很多都是参考国外的很多公司，像google，amazon，linked等等。稍微列举写没有开源的中间件，HSF（好舒服，内部的RPC基本都是使用他，很少用dubbo了），EagleEye（全链路监控），ConfigServer（和Zookeeper类似），VipServer（类似LVS），Notify（消息中间件），Pandora（所有中间件Sar包集合），Pandora Boot（类似Spring Boot）。
